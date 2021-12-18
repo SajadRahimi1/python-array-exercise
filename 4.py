@@ -34,5 +34,3 @@ def secondWay():
         
     
     print("Max number: "+str(maxNumber) +"\n"+ "Index of max number: "+str(maxIndex))
-
-secondWay()
