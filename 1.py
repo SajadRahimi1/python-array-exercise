@@ -1,4 +1,5 @@
-numbers = []
+from array import *
+numbers = array('i')
 
 for i in range(10):
     numbers.append(int(input("Number: ")))
