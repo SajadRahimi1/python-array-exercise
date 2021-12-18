@@ -2,7 +2,7 @@ from array import *
 
 numbers = array('i')
 
-for i in range(10):
+for i in range(20):
     numbers.append(int(input("Number: ")))
 evenNumber = []
 oddNumber = []
